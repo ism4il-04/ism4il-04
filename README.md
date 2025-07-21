@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ismail Lyamani</h1>
-<h3 align="center">A computer science st</h3>
+<h1 align="center">Hi, I'm Ismail Lyamani</h1>
+<h3 align="center">A computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ism4il-04&label=Profile%20views&color=0e75b6&style=flat" alt="ism4il-04" /> </p>
 
