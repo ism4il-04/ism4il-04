@@ -72,21 +72,19 @@
 - Exploring enterprise resource planning systems and their practical applications
 - Building production-ready applications with modern tech stacks
 
-<!---
+---
 
 ## GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ism4il-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ism4il-04&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ism4il-04&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ism4il-04&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ism4il-04&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ism4il-04&layout=compact&theme=tokyonight)
 
 </div>
-
-!--->
 
 ---
 
