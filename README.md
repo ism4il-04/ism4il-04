@@ -1,12 +1,13 @@
 <div align="center">
-  
+
 # Hi, I'm Ismail LYAMANI
 
-### Computer Engineering Student | Software Developer | QA Enthusiast
+### Software Engineering Student | Full-Stack Developer | DevOps & CI/CD
+
+**Looking for a 6-month end-of-studies internship (PFE) in software engineering, starting April 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-lyamani-59b9b8282/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaillyamani4@gmail.com)
-<!---[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)!--->
 
 </div>
 
@@ -14,12 +15,32 @@
 
 ## About Me
 
-2nd-year Computer Engineering student at **ENSATE** (National School of Applied Sciences of Tétouan), focused on building robust, scalable software solutions with a strong emphasis on quality assurance and enterprise systems.
+Double-degree student based in **Brest, France**:
 
-**Core Interests:**
-- Full-stack software development
-- Quality assurance and automated testing
-- Enterprise resource planning (ERP) systems
+- **Master 2 DOSI** (Software Development for Information Systems) at the **Université de Bretagne Occidentale (UBO)**
+- **Engineering degree in Computer Science** at **ENSA Tétouan** (Morocco)
+
+I build full-stack applications, from the database to the deployment pipeline, with a focus on clean architecture, automated testing and CI/CD.
+
+Fluent in Arabic, French and English.
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Spawnta** | Real-time spontaneous meetup app built on microservices, with map view and a full CI/CD pipeline: notifications under 200 ms, 100% automated deployments | Spring Boot, Angular, Kafka, Docker, Leaflet, GitHub Actions |
+| **ENSATE-Share** | Academic document-sharing platform in production, used by 1,000+ students: file upload and full-text search | Next.js, Node.js, MongoDB, Vercel |
+| **RepoGuard** | Machine learning pipeline predicting whether a GitHub repository will be abandoned, trained on 10,000+ repositories collected via the GitHub API | Python, Pandas, Scikit-learn, Streamlit, Railway |
+| **2D Multiplayer Shooter** | Real-time multiplayer game over TCP sockets with in-game chat: 30 FPS, under 80 ms latency, up to 4 players | Java, LibGDX, TCP/IP |
+
+---
+
+## Experience
+
+- **PortNet S.A.** (Casablanca), Software Engineering Intern, Jul–Aug 2026: automated regression test suite with Playwright, cutting regression testing time by 70% and raising critical-case coverage by 85%
+- **Cegedim Maroc** (Rabat), Intern, Jul 2025: rebuilt a workload-tracking tool in Python/Pandas with data validation and automated reports
 
 ---
 
@@ -27,78 +48,60 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,cs,dotnet,javascript,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,cs,html,css" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,laravel,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,nextjs,nodejs,dotnet,laravel,flutter" />
 </p>
 
-### Databases
+### Databases & Messaging
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka" />
 </p>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Tools & Platforms
+### DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,latex" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,githubactions,vercel" />
 </p>
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ### Testing & QA
 <p align="left">
   <img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 
-### Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-0078D4?style=for-the-badge&logo=vmware&logoColor=white)
+### Data & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ERP & Enterprise Systems
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,latex" />
+</p>
 
 ---
 
 ## Current Focus
 
-- Advancing software development practices and design patterns
-- Implementing comprehensive testing strategies and QA methodologies
-- Exploring enterprise resource planning systems and their practical applications
-- Building production-ready applications with modern tech stacks
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ism4il-04&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ism4il-04&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ism4il-04&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 2026 Objectives
-
-- [ ] Contribute to open-source projects in software development and QA
-- [ ] Deepen expertise in ERP systems (Salesforce & SAP)
-- [ ] Build full-stack applications integrating best practices in development and testing
-- [ ] Expand knowledge in cloud technologies and DevOps practices
+- Strengthening CI/CD and containerization practices (GitLab, Docker)
+- Applying software architecture and design patterns to full-stack projects
+- Building production-ready applications with automated tests and deployments
 
 ---
 
 <div align="center">
 
-**Open to collaboration on innovative projects and technical discussions**
+**Open to internship opportunities from April 2027, as well as collaboration on projects and technical discussions**
 
 </div>
